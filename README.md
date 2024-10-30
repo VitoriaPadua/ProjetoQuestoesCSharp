@@ -67,9 +67,12 @@ Questões 1-25: Nível Básico
 ________________________________________
 Questões 26-50: Nível Intermediário
 
-<tr> 26.	Crie uma função que ordena três números fornecidos. </tr>
+26.	Crie uma função que ordena três números fornecidos. 
+
 27.	Desenvolva um programa que calcula o fatorial de um número.
+
 28.	Crie uma classe Aluno com propriedades Nome e Nota. Implemente um método para exibir esses valores.
+
 29.	Implemente um método que calcula a média de uma lista de números.
 30.	Crie um programa que verifica se uma palavra é um palíndromo.
 31.	Implemente uma função que encontra o menor número em um array.
@@ -95,8 +98,12 @@ Questões 26-50: Nível Intermediário
 
 ________________________________________
 Questões 51-75: Nível Intermediário-Avançado
+
+
 51.	Crie uma função que verifica se uma matriz é simétrica.
+
 52.	Desenvolva um programa que ordena uma lista de nomes em ordem alfabética.
+
 53.	Crie uma função que encontra o elemento mais frequente em um array.
 54.	Implemente uma função que calcula o valor absoluto de um número sem usar Math.Abs().
 55.	Crie um programa que implementa o algoritmo de busca linear.
